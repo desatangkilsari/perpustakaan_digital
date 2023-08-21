@@ -34,6 +34,7 @@ button {
     padding: 30px;
 }
 
+
 #mobile-menu {
     visibility: hidden;
     opacity: 0;
@@ -427,6 +428,18 @@ button {
 .text-about img {
     width: 80%;
 }
+
+
+/* Buatan Afi */
+.text-mmd {
+    color: #fff;
+    letter-spacing: 1.5px;
+    font-size: 7px;
+    margin-left: 20px ;
+
+}
+/* Akhir Buatan Afi */
+
 
 @keyframes fade {
     from {
